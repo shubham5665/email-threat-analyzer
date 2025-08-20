@@ -1,0 +1,4 @@
+# Copy this to config.yaml and fill your keys (optional)
+vt_api_key: "YOUR_VIRUSTOTAL_API_KEY"
+urlscan_api_key: "YOUR_URLSCAN_API_KEY"
+user_agent: "PhishAnalyzer/1.0 (+https://example.local)"

@@ -1,0 +1,26 @@
+Return-Path: <spoofed@paypa1.com>
+Received: from unknown (HELO mx.fake) (203.0.113.10)
+    by mail.example.com with ESMTP; Mon, 19 Aug 2024 10:15:00 +0530
+From: "PayPal Security" <security@paypa1.com>
+To: victim@example.com
+Subject: Important: Verify your account now
+Date: Mon, 19 Aug 2024 10:14:50 +0530
+Message-ID: <fake1234@paypa1.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZ"
+
+--XYZ
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user, your account has been limited. Verify now: hxxps://paypa1-secure[.]com/login
+
+--XYZ
+Content-Type: text/html; charset="UTF-8"
+
+<html><body>
+<p>Dear user,</p>
+<p>Your account has been limited. <b>Verify now</b>:</p>
+<a href="hxxps://paypa1-secure[.]com/login">Click here</a>
+</body></html>
+
+--XYZ--

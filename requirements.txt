@@ -1,0 +1,8 @@
+# Core parsing & utilities
+beautifulsoup4
+lxml
+urlextract
+python-dotenv
+requests
+pyyaml
+rich
